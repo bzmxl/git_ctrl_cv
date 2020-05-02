@@ -14,4 +14,9 @@ https://github.com/bzmxl/java-space/tree/master/spring-dubbo-project
 学习Nacos
 https://github.com/alibaba/nacos
 https://nacos.io/zh-cn/
+
+2020-05-02：
+学习XXL-JOB
+https://github.com/xuxueli/xxl-job
+https://www.xuxueli.com/xxl-job/
 ```
