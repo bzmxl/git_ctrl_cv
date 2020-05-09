@@ -32,6 +32,6 @@ https://github.com/Netflix/Hystrix
 学习Kafka
 https://spring.io/projects/spring-kafka
 https://docs.spring.io/spring-kafka/docs/2.5.0.RC1/reference/html/
-https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-kafka
-https://github.com/bhawarrahul/spring-boot-kafka-demo
+http://pulsar.apache.org/zh-CN/
+学习完成
 ```
