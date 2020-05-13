@@ -34,4 +34,9 @@ https://spring.io/projects/spring-kafka
 https://docs.spring.io/spring-kafka/docs/2.5.0.RC1/reference/html/
 http://pulsar.apache.org/zh-CN/
 学习完成
+
+2020-05-13：
+学习pigx
+https://gitee.com/log4j/pig
+https://git.boleme.net/digital-publish/pigx
 ```
